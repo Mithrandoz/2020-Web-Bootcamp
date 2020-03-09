@@ -6,9 +6,12 @@ March 5th 2020
 -learned more about what git is and how it's useful
 
 -watched video 264
+-created local repository
 -followed along and learned how to use git to add files to staging areas, commit them, and use version control to revert changes locally through the commandline.
 
 March 9th 2020
 
 -watched video 265
--
+-realized I should add the local repository from video 264 to this repository
+-repeated the steps in video 264 to add to the local repository
+-learned how to upload from a local repository to an online repository on git hub through the commandline
