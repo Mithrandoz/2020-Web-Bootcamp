@@ -1,0 +1,21 @@
+Section 15 Notes
+
+March 4th 2020
+
+-watched video 218 
+-installed hyper terminal
+-installed gitbash and Visual Studio Code
+-configured hyper for gitbash
+
+-watched video 219
+-reviewed history and terminology involving the command line
+
+-watched video 220
+-reviewed navigational shortcuts and basic navigational commands within the commandline
+
+-watched video 221
+-reviewed how to create and delete files within the commandline
+
+-watched video 222
+-was reminded to get some sleep
+

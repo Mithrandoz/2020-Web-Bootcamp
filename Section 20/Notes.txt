@@ -1,0 +1,14 @@
+Section 20
+
+March 5th 2020
+
+-watched video 263
+-learned more about what git is and how it's useful
+
+-watched video 264
+-followed along and learned how to use git to add files to staging areas, commit them, and use version control to revert changes locally through the commandline.
+
+March 9th 2020
+
+-watched video 265
+-
