@@ -1,0 +1,27 @@
+Section 1
+
+-watched Lesson 1 (introductory)
+
+-read Lesson 2 (Course Syllabus)
+
+-read Lesson 3 (bookmarked course resources)
+
+-watched Lesson 4 (note-taking advice)
+
+-read Lesson 5 (link to coding advice e-book)
+
+-watched Lesson 6
+-reviewed what the internet was and how it's networks work
+
+-watched Lesson 7
+-reviewed how websites function
+
+-watched Lesson 8 (program resource setup)
+-already have chrome and a text editor (Visual Studio Code)
+
+-watched Lesson 9 (trouble-shooting advice)
+
+-read lesson 10 (experience inquiry)
+-it recommended I start at section 12, however for documentation purposes I will continue as normal
+
+Finished Section 1
