@@ -14,4 +14,35 @@ March 9th 2020
 -watched video 265
 -realized I should add the local repository from video 264 to this repository
 -repeated the steps in video 264 to add to the local repository
--learned how to upload from a local repository to an online repository on git hub through the commandline
+-learned how to upload from a local repository to an online repository on git hub through the commandl
+
+-read lesson 266
+-it reminded that private GitHub Repositories were availible for free
+
+-watched lesson 267
+-created files in a folder called project
+-created a "secret" file and added it to gitignore
+-successfully learned how to use the gitignore tool.
+
+-watched lesson 268
+-learned how to use cloning
+
+-watched lesson 269
+-Experimented with making, commiting, and merging branches.
+
+-read lesson 270
+-was given a link to an optional git branching "challenge"
+-chose to skip it
+
+-watched lesson 271
+-learned more about Forking and Pull Requests on Github
+
+-watched lesson 272
+-was reminded to pace myself when learning and to use repitition for knowledge retention.
+
+-read lesson 273
+-had a link to feedback page
+
+-finished Section 20
+
+                                                                                
