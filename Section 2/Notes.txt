@@ -1,0 +1,41 @@
+Section 2 Notes
+
+March 10th 2020
+
+-watched Lesson 11 x2 speed
+-reviewed basic HTML structuring and how it operates
+
+-watched Lesson 12 x2 speed
+-reviewed the anatomy of how HTML tags work
+
+-watched Lesson 13 x2 speed
+-described a site called "WebArchive" that shows how website design has evolved since the beginning of the internet
+
+-watched Lesson 14 x2 speed
+-reviewed how to use an editor to create a webpage (learned how to do so through visual studio within my Git repository)
+
+-watched Lesson 15 x2 speed
+-created structuretest.html
+-reviewed basic html structuring
+
+-watched Lesson 16 x2 speed
+-copied structuretest.html as list.html
+-reviewed lists
+
+-watched Lesson 17 x2 speed
+-copied list.html as image.html
+-added a gorgeous photo of my Mesa Prime to the folder (warframe.png)
+-reviewed adding images
+
+-watched Lesson 18 x2 speed
+-copied Image.html as Links.html
+-linked Warframe to the warframe website
+-reviewed the anchor tag and hyper links
+
+-completed assignment 1
+-a required feedback form about the course and how it would affect my life
+
+-read Lesson 19
+-optional feedback form
+
+Completed Section 2
