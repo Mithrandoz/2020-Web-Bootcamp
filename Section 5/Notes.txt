@@ -5,3 +5,12 @@ March 12 2020
 -watched lesson 43
 -created a folder called "CSS - My Site"
 -added index.html and styles.css to folder
+
+-watched lesson 44
+-reviewed and created a favicon for index.html
+
+-watched lesson 45
+-reviewed div elements
+
+
+
