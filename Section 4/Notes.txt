@@ -1,0 +1,59 @@
+Section 4 Notes
+
+March 12 2020
+
+-watched lesson 31
+-copied forms.html, Face.png, and contactme.html to section 4
+-renamed forms.html to CSS.html
+-explained the basics of CSS
+
+-watched lesson 32
+-reviewed how to use inline CSS (already did everything she explained in the previous lesson)
+
+-read lesson 33
+-was a troubleshooting guide for lesson 34
+
+-watched lesson 34
+-reviewed the style tag
+-downloaded Pesticide extention for my browser
+-took the liberty of cleaning up my CSS while the video played
+
+-watched lesson 35
+-reviewed how to use external CSS
+-copied CSS.html as Style.html
+-created Style.css
+-moved the page style from Style.html to Style.css
+-linked Style.css to Style.html and contactme.html
+
+-watched lesson 36
+-downloaded CSS Debugging Problems.zip
+-extracted files
+-renamed them to .html?
+-not sure what she was asking, but I determined the first bug was in the CSS Link
+-I was correct
+-determined the seccond bug was some unremoved style code in the body that over-wrote the CSS style sheet
+-I was also correct
+
+-watched lesson 37
+-reviewed CSS syntax
+
+-watched lesson 38
+-reviewed CSS selectors
+
+-watched lesson 39
+-reviewed the differance between "class" and "id"
+
+-completed Quiz 1: CSS Quiz
+-100% first try
+
+-watched lesson 40
+-was advice on how to deal with distractions
+-got distracted by my cat laying on my keyboard
+
+-read lesson 41
+-was a link to the student community page
+
+-read lesson 41
+-feedback link
+
+Completed Section 4

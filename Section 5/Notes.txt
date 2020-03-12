@@ -1,0 +1,7 @@
+Section 5
+
+March 12 2020
+
+-watched lesson 43
+-created a folder called "CSS - My Site"
+-added index.html and styles.css to folder

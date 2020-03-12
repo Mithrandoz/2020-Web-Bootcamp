@@ -1,0 +1,48 @@
+Section 3
+
+March 11 2020
+
+-watched Lesson 20
+-copied image.html from lesson 20 and named it table.html
+-reviewed tables
+-re-styled the page to be rethemed as a dark-theme resume (mostly for my eye's sake)
+
+-watched Lesson 21
+-reviewed tables and how they help with site layout
+
+-watched Lesson 22
+-continued to review tables and how to use them
+-was given a challenge to add my own table
+-added a skills section to the resume
+
+-read Lesson 23
+-learned how to use emojis on PC
+
+-watched Lesson 24
+-showed how to complete the challenge in lesson 22
+
+-watched Lesson 25
+-copied table.html as forms.html
+-created contactme.html
+-added a hyperlink to forms.html to contactme.html
+-reviewed forms and input
+
+-watched lesson 26
+-continued to review forms
+
+-did coding exercise 1
+-quickly completed the exercise, wanted me to imitate a shown website in html using all tags learned so far
+
+-watched lesson 27
+-showed how to publish a website to Github
+
+-watched lesson 28
+-was given advice on how to develop good habits
+
+-read lesson 29
+-they promoted their newsletter that provides monthly tips and tools towards web developers
+
+-read lesson 30
+-feedback link
+
+Completed Section 3
