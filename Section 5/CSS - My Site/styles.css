@@ -1,26 +1,102 @@
 div {
-    background-color: rgb(150, 150, 150);
+    
 }
+.top-container {
+    background-color: rgb(178, 215, 231);
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{
+
+}
+.bottom-container{
+    
+}
+
 div.redbox {
     background-color: red;
     height: 200px;
     width: 200px;
 }
+
 div.bluebox {
     background-color: blue;
     height: 200px;
     width: 200px;
 }
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
 body {
     margin-left: 0px;
     margin-right: 0px;
     margin-top: 0px;
+    text-align: center;
+    font-family: verdana, sans-serif;
 
 }
+
 h1 {
-    margin-top: 0px;
-    padding: 20px 20px 20px 20px;
+    width: 20%;
+    margin: 0 auto 0 auto;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 400%;
+    text-align: center;
+    color: #66BFBF;
+    line-height: 2;
 }
+
+h2 {
+    font-family: 'Spectral', serif;
+    color: #66BFBF;
+}
+
+h3{
+    font-family: 'Sawarabi Mincho', sans-serif;
+}
+
 p {
     padding: 20px 20px 20px 20px;
+    font-family: 'Crimson Text', serif;
+    font-size: 20px;
+}
+p.we {
+    font-weight: normal;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+img {
+    position: relative;
+}
+
+img.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+img.bottom-cloud {
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+}
+
+.skill-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill-img-r {
+    width: 25%;
+    float: right;
+    margin-right: 30px;
 }

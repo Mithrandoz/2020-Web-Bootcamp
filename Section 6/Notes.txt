@@ -1,0 +1,17 @@
+Section 6
+
+March 15 2020
+
+-having network trouble, things are going really slowly
+
+-watched lesson 66
+-learned about Bootstrap
+
+-watched lesson 67
+-practiced installing Bootstrap to a website
+
+-watched lesson 68
+-reviewed how websites are designed (wireframe)
+
+-got frustrated with video loadtimes, will resume tommorrow
+

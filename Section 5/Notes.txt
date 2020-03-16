@@ -12,5 +12,77 @@ March 12 2020
 -watched lesson 45
 -reviewed div elements
 
+-watched lesson 46
+-reviewed CSS box models
+-completed "box challenge"
 
+-watched lesson 47
+-downloaded site images
+-added images to site
+-reviewed the display property
 
+March 13 2020
+
+-read lesson 48
+-had a link to a bonus section 33 for web design
+
+-watched lesson 49
+-reviewed static and relative positioning as well as an explanation of the display grid
+
+-watched lesson 50
+-reviewed absolute and fixed positioning
+
+-watched lesson 51
+-reviewed centering elements
+
+-watched lesson 52
+-reviewed fonts
+
+-read lesson 53
+-had a link to section 33 for a lesson on typography
+
+-felt sick, went to bed early
+
+March 14th
+
+-had a major migrane today, started late in the evening
+-had to retype all notes on March 15th; forgot to save
+
+-watched lesson 54
+-added content to website
+
+-watched lesson 55
+-reviewed CSS sizing
+
+-read lesson 56
+-completed challenge (changed font to a specified color)
+
+-read lesson 57
+-completed challenge (changed font to a specified weight)
+
+-read lesson 58
+-completed challenge (changed title to a specified line height)
+
+-watched lesson 59
+-reviewed challenge solutions
+
+-watched lesson 60
+-reviewed Float and clear
+-completed a lot of challenges
+
+-read lesson 61
+-completed challenge
+
+-watched lesson 62
+-reviewed challenge solution
+
+-read lesson 63
+-links to frontendmentor.io for html and css practice
+
+-watched lesson 64
+-end of secton pep talk
+
+-read lesson 65
+-feedback link
+
+Completed Section 5
