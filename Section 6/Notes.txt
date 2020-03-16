@@ -13,5 +13,27 @@ March 15 2020
 -watched lesson 68
 -reviewed how websites are designed (wireframe)
 
--got frustrated with video loadtimes, will resume tommorrow
+-watched lesson 69
+-built a Bootstrap navigation bar
+
+-got frustrated with video loadtimes, tried turning things off and back on again
+-didnt work
+-tried resetting my internet
+-didnt work
+-tried using a hotspot
+-still was loading slowly
+-decided to turn computer off and give it time to cool off
+
+March 16 2020
+
+-computer is running fine
+
+-watched lesson 70
+-was explained the website I was going to be building (tindog, tinder, but with dogs)
+
+-read lesson 71
+-downloaded starter files
+
+
+
 
