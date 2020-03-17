@@ -34,6 +34,49 @@ March 16 2020
 -read lesson 71
 -downloaded starter files
 
+-watched lesson 72
+-set up tindog project
 
+-watched lesson 73
+-practiced the bootstrap grid system
 
+-read lesson 74
+-troubleshooting for next lesson
 
+-watched lesson 75
+-completed several challenges involving the nav bar, grids, and fonts
+
+-read lesson 76
+-a reminder of how CSS ordering works
+
+-watched lesson 77
+-learned about containers and applied them to the website
+
+-watched lesson 78
+-learned about Bootstrap buttons
+-learned about font awesome
+-cleaned up the head with comments
+
+-watched lesson 79
+-Completed several Bootstrap challenges utilizing learned material
+
+-read lesson 80
+-completed challenge
+-added div tags to create grids
+-added links to font awesome icons
+-added class .icon to center and color icons
+-added .perk to adjust font and colors
+-added .icon:hover to change icon color when hovered over
+-added padding to .perk
+-added fa-4x to adjust icon size
+
+-watched lesson 81
+-reviewed challenge
+
+-watched lesson 82
+-pep talk on procrastination
+
+-read lesson 83
+-feedback link
+
+Completed Secion 6
