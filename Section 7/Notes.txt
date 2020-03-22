@@ -1,0 +1,68 @@
+Section 7
+
+March 21st 2020
+
+-watched lesson 84
+-adjusted testimonial CSS to look pretty, giving things padding, style, and color
+
+-watched lesson 85
+-learned about bootstrap carousel
+-experimented with carousel and applied it to the website
+
+-watched lesson 86
+-learned about bootstrap cards
+-completed card challenge
+-experimented with cards, decks and applied them to the website
+
+-watched lesson 87
+-learned about the z-index and layering
+-used z index to cover title picture with features div
+
+-watched lesson 88
+-explained why mobile compatibility is important (obviously)
+-introduced the media query
+-accidentally completed the lesson by experimenting
+
+-read lesson 89
+-completed the challenge
+-replicated and modified the buttons from the top of the page for the buttons at the bottom
+-adjusting the background color and margins to match the outcome image
+-created rows for the social media icons and adjusted them to change orientation based on device size
+-added padding to make the page more comfortable
+
+-watched lesson 90
+-reviewed previous challenge
+-she used margins instead of rows for social media icons
+-added links to the navigation to embedded ids
+
+-watched lesson 91
+-reviewed how to optimize code and keep it clean and easy to read
+
+-watched lesson 92
+-reviewed certain methods of optimization
+-cleaned up the CSS a bit (some of my CSS was different than hers and couldn't be optimized the same way)
+
+-watched lesson 93
+-reviewed combining CSS selectors and how it's read
+
+-watched lesson 94 
+-continued to optimize the CSS
+-could not remove some id's from the code, they had unique padding, not the same
+-not sure why, but in all her video's the example site is zoomed in a ton compared to mine, I get the equivlant view at 175% zoom, site looks good regaurdless
+
+-watched lesson 95
+-more explanation of things to look out for when optimizing and organizing CSS
+
+-watched lesson 96
+-review of what we acomplished
+
+-read lesson 97
+-link to her full code and finished website for comparison
+
+-watched lesson 98
+-pep talk on building good coding habits
+
+-read lesson 99
+-feedback link
+
+Completed Section 7

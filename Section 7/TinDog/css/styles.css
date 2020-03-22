@@ -1,0 +1,162 @@
+/* main */
+
+body {
+    text-align: center;
+}
+
+#title {
+    text-align: left;
+}
+
+.container-fluid {
+    padding: 3% 15% 17%;
+}
+
+h1, h2, h3 {
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+p {
+    color: #8f8f8f;
+}
+
+/* section colors */
+
+.white {
+    background-color: #fff;
+    color: black;
+}
+
+.colored {
+    background-color: #ef8172;
+    color: white;
+}
+
+.strawberry {
+    background-color: #ff4c68;
+    color: white;
+}
+/* features */
+
+.perk {
+    font-family: "montserrat-bold";
+    font-size: 1.5rem;
+    padding: 5% 3%;
+}
+
+.icon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    color: #ef8172;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+
+/* navigation bar */
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+}
+
+/* title */
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+.title-img {
+    width: 60%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 30%;
+}
+
+@media (max-width: 1030px) {
+
+    .title-img {
+        transform: rotate(0deg);
+        position: static;
+    }
+
+    #title {
+        text-align: center;
+    }
+}
+
+/* section ids & classes */
+
+/* features */
+#features {
+    padding: 7% 15%;
+    position: relative;
+    z-index: 1;
+}
+
+/* testimonials */
+
+.testimonial-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+/* press  */
+
+#press {
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+/* pricing */
+
+#pricing {
+    padding: 100px;
+}
+
+/* cta  */
+
+#cta {
+    padding: 5% 0% 2%;
+}
+
+/* footer  */
+
+#footer {
+    padding: 80px 0px 80px;
+}
+
+.blk-lnk {
+    color: black;
+}
+.foot-icon {
+    color: black;
+    margin: 2% 42%;
+}
