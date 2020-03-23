@@ -1,0 +1,76 @@
+Section 8
+
+March 22 2020
+
+-watched lesson 100
+-learned about the history of internet browsers such as netscape
+-learned more about how java script came to be.
+
+-watched lesson 101
+-reviewed javascript's language layout
+-learned that apparantly there's such a thing as "beginning quotes" and "end quotes" as seperate characters, thought they were just quotes, what kind of keyboard has 2 sets of quotes???
+
+-watched lesson 102
+-reviewed data types like strings and booleans
+
+-watched lesson 103
+-reviewed javascript variables and how to declare them
+
+-watched lesson 104
+-was given instruction on how to use the challenge program in the next lesson
+
+-completed coding challenge
+-var a = "3"
+-var b = "8"
+switch the two variable's values without typing numbers
+-solution:
+-var c = a
+-a = b
+-b = c
+
+-watched lesson 105
+-reviewed the previous challenge solution
+
+-watched lesson 106 
+-reviewed variable naming and how to keep things clean and consice.
+
+-completed quiz 2
+-reviewed acceptable variable names
+
+-watched lesson 107
+-reviewed strings and how they are used together
+
+-watched lesson 108
+-reviewed the length function and how to count characters in javascript (0, 1, 2, 3, ect...)
+
+-watched lesson 109
+-reviewed the slice function
+
+-internet hiccups starting to occour
+
+-watched lesson 110
+-reviewed the toUpperCase function
+-given challenge to uppercase the first character of an input variable (name)
+-isolated the first character by using the slice function and putting the letter into a variable (firstLetter)
+-used the uppercase function on the firstLetter
+-sliced the rest of the name by using the length function to get the name length (restOName)
+-added the the two variables together (firstLetter + restOName)
+
+-watched lesson 111
+-reviewed the previous challenge
+-also reviewed how to fix rest of name if the middle was capitalized funky by using .toLowerCase
+
+-watched lesson 112
+-reviewed arithmatic symbols and the modulo (remainder) function
+
+-watched lesson 113
+-reviewed increment and decriment expressions
+
+-completed quiz 3
+-reviewed javascript arithmatic
+
+
+
+
+
+
