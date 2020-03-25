@@ -69,8 +69,51 @@ switch the two variable's values without typing numbers
 -completed quiz 3
 -reviewed javascript arithmatic
 
+March 23 2020
 
+-watched lesson 114
+-reviewed functions
 
+-watched lesson 115
+-showed examples of using functions within functions
 
+-read lesson 116
+-reviewed the different solutions used for a previous example challenge
 
+-read lesson 117
+-notes on the next lesson
 
+-watched lesson 118
+-reviewed parameters and arguments
+
+-read lesson 119
+-completed function review challenge
+
+-watched lesson 120
+-reviwed output and returns
+
+-watched lesson 121
+-given explanation of next challenge (BMI calculator)
+
+-Coding Exercise 4
+-create a function that takes in weight and height and outputs the bmi when run
+
+function bmiCalculator(weight, height) {
+var bmi = weight / (height * height);
+return bmi;
+}
+
+-watched lesson 122
+-reviewed solutions for previous challenge
+-we had the exact same solution
+
+-Quiz 4
+-reviewed everything learned thus far
+
+-watched lesson 123
+-pep talk on expectations
+
+-read lesson 124
+-feedback link
+
+Completed Section 8

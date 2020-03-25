@@ -1,0 +1,72 @@
+Section 9
+
+March 25th 2020
+
+-watched lesson 125
+-reviewed RNG (random number generation) and it's javascript function
+
+-watched lesson 126
+-reviewed conditionals ('if' and 'else' statements)
+
+-watched lesson 127
+-reviewed comparators and the different types of equality
+
+-watched lesson 128
+-reviewed how to combine comparators
+
+-completed Coding Exercise 5 
+-create an advanced BMI Calculator that gives different output based on the user's BMI
+Solution:
+
+function bmiCalculator (weight, height) {
+    var bmi = weight / (height * height);
+    if(bmi > 24.9){It wa
+    var interpretation = ("Your BMI is " + bmi + ", so you are overweight.");
+} 
+    if(bmi < 18.5) {
+    var interpretation = ("Your BMI is " + bmi + ", so you are underweight.");
+}
+    if(bmi >= 18.5 && bmi <= 24.9) {
+    var interpretation = ("Your BMI is " + bmi + ", so you have a normal weight.");
+}
+    return interpretation;
+}
+
+-watched lesson 129
+-explaination of the next challenge and the consept of a leap year (for people who didn't know, lol)
+
+-completed Coding Exercise 7
+-create a program that will tell you if a year(input) is a leap year based on the rules for leap years:
+-A year is a leap year if it is evenly divisible by 4
+-Except if that year is also evenly divisible by 100
+-Unless that year is also evenly divisible by 400
+
+Solution:
+
+function isLeap(year) {
+    
+    if(year % 4 === 0){
+        if(year % 100 === 0){
+            if(year % 400 === 0){
+                return("Leap year.")
+            } else{
+                return("Not leap year.")
+            }
+        } else{
+            return("Leap year.")
+        }
+    } else{
+        return("Not leap year.")
+    }
+
+}
+
+-used the remainder function as if it wasn't divisible by a number there would be a remainder
+
+-watched lesson 130
+-reviewed leap year solution
+
+-watched lesson 131
+-reviewed arrays
+
+
