@@ -69,4 +69,77 @@ function isLeap(year) {
 -watched lesson 131
 -reviewed arrays
 
+-watched lesson 132
+-reviewed how to add things to arrays and other tecniques
 
+March 25th 2020
+
+-completed Coding Exercise 7
+-create a program that randomly selects a name from an array and returns that name saying they will buy lunch
+
+solution:
+
+function whosPaying(names) {
+
+var personCount = names.length
+var randoCalrissianPos = Math.floor(Math.random() * personCount)
+var randoCalrissian = names[randoCalrisianPos]
+return (randoCalrisian + " is going to buy lunch today!")
+ 
+}
+
+-Rando Calrissian is a spoof of Lando Calrissian from "Star Wars" usually used by gamers to refer to a random players they don't know (usually referred to as "Randos")
+
+-watched lesson 133
+-reviewed the previous coding exercise
+
+-watched lesson 134
+-reviewed the "while" statement and infinite loops
+-also talked about how to avoid infinite loops
+
+-read lesson 135
+-provided an example to a program referenced in lesson 134 (how to program the "bottles of beer on the wall" song using javascript "if" and "while" statements)
+
+-watched lesson 136
+-reviewed the "for" statement
+
+-watched lesson 137
+-explanation of next coding exercise
+
+-completed Coding Exercise 8
+-create a program that will return an array of a specified length of the fibonacci sequence (series of numbers where starting from 0 and 1 the 3rd number will be the sum of the previous 2 numbers)
+
+-This literally took me hours and compared to her solution I did it quite differently, but it works.
+
+-My Solution:
+
+function fibonacciGenerator (n) {
+
+        var sequence = [];
+    var sequenceNumX = 0;
+    var sequenceNumY = 1;
+    if(n === 1) {
+        sequence = [0];
+    } if (n === 2){
+        sequence = [0, 1]
+    } if (n > 2) {
+      sequence = [0, 1];
+        for (var i=2; i<n; i++){
+            sequence.push(sequence[sequenceNumX] + sequence[sequenceNumY]);
+            sequenceNumX++;
+            sequenceNumY++;
+        }
+    }
+    return sequence;
+}
+
+-watched lesson 138
+-reviewed the nightmare that was the previous Coding Exercise
+
+-watched lesson 139
+-pep talk on information retention
+
+-read lesson 140
+-feedback link
+
+Completed Section 9
