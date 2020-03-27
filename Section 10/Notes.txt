@@ -1,0 +1,8 @@
+Section 10
+
+March 26th
+
+-watched lesson 141
+-learned how to use inline javascript, internal javascript, and external javascript in html
+
+March 27th
