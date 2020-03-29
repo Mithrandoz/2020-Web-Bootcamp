@@ -1,0 +1,31 @@
+Section 11
+
+March 29th 2020
+
+-watched lesson 151
+-given challenge to create a Dice game
+
+-created random numbers using math.random, multiplied them by 6, floored them, so I'd get a number between 0-5
+-created an array containing links to all the images of the dice
+-created image variables containing the links to the images from the arrays using the die numbers
+-used query selectors to select the image classes and set the "src" attribute to the image variables (image links)
+-created if statements based on the die values that would change the h1 using query selector to display who the winner was or if it was a draw using the innerHTML property
+
+-completed the challenge
+
+-read lessons 152 through 158
+-step by step thought processes on what to do to make the website
+
+-watched lesson 159
+-reviewed how she did the site
+
+-read lesson 160
+-link to download her code
+
+-watched lesson 161
+-pep talk on learning before eating (to encourage focus)
+
+-read lesson 162
+-feedback link
+
+Completed Section 11
