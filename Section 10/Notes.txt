@@ -5,4 +5,36 @@ March 26th
 -watched lesson 141
 -learned how to use inline javascript, internal javascript, and external javascript in html
 
-March 27th
+March 28th
+
+-watched lesson 142
+-learned about the DOM (Document Object Model)
+
+March 29th
+
+-read lesson 143
+-reviewed a previous DOM challenge
+
+-watched lesson 144
+-learned about different methods of targeting HTML elements using Javascript
+
+-watched lesson 145
+-learned more about how to change style using javascript
+
+-watched lesson 146
+-learned about the separation of code function 
+-learned how to change styles using javascript by changing classes rather than css values
+
+-watched lesson 147
+-learned how to manipulate and apply HTML using javascript
+
+-watched lesson 148
+-learned how to manipulate attributes within HTML elements using javascript
+
+-watched lesson 149
+-peptalk about the "20 minuet method"
+
+-read lesson 150
+-feedback link
+
+Completed Section 10
