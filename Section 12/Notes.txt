@@ -1,0 +1,61 @@
+Section 12
+
+March 30th 2020
+
+-watched lesson 163
+-explanation of the drum kit project I'll be working on
+
+-read lesson 164
+-link to starter files
+-downloaded and extracted starter files
+
+-watched lesson 165
+-learned about event listeners
+-learned how to listen for the same event across multiple elements using the for loop
+
+March 31st 2020
+
+-watched lesson 166
+-learned how to use functions within functions to create arguments
+
+-read lesson 167
+-reviewed the calculator example in the previous lesson
+
+-watched lesson 168
+-learned how to play sounds in a webpage
+
+-watched lesson 169
+-went in depth on javascript objects and constructor functions
+
+-watched lesson 170
+-learned how to use switches to detirmine html elements
+
+-watched lesson 171
+-covered constructor functions further and objects
+
+-read lesson 172
+-advisory to use the keydown listener instead of keypress listener (next lesson's video is outdated)
+
+-watched lesson 173
+-learned how to detect key presses
+-gave me an absolute NIGHTMARE of a challenge (get the buttons to make sound when you hit the corresponding keys)
+-could not complete, spent hours, got too confused and studied the solution
+
+-watched lesson 174
+-learned more about events and callbacks
+
+-watched lesson 175
+-learned about how to cause animations by using css changes and delays
+-also learned you could remove css classes using javascript
+
+-read lesson 176
+-link to completed website
+
+-watched lesson 177
+-pep talk on lack of progress
+
+-read lesson 178
+-feedback link
+
+Completed section 12
+
