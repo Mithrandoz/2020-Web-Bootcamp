@@ -1,0 +1,14 @@
+Section 14
+
+April 4th 2020
+
+-watched lesson 191
+-explanation of the project for section 14
+-I must make a Simon game
+
+-read lesson 192
+-link to the Simon game for those who don't know what it is
+
+-read lesson 193
+-link to starter files
+-downloaded and extracted files

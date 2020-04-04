@@ -1,0 +1,45 @@
+Section 13
+
+April 3rd
+
+-watched lesson 179
+-learned about jQuery
+
+-watched lesson 180
+-learned how to incorperate jQuery into a website and where it should go
+
+-watched lesson 181
+-learned about the minimization of code files
+
+-watched lesson 182
+-learned more about selecting elements using jQuery
+
+-watched lesson 183
+-learned more about changing CSS using jQuery Commands
+
+-watched lesson 184
+-learned how to change html text using jQuery
+
+-watched lesson 185
+-learned about setting and getting attributes using jQuery
+
+-watched lesson 186
+-learned about jQuery event listeners
+-immediately fell in love with them
+
+-watched lesson 187
+-learned about adding and removing elements using jQuery
+
+-watched lesson 188
+-learned about animations in jquery
+-had a little fun
+
+-watched lesson 189
+-peptalk
+
+-read lesson 190
+-feedback link
+
+Completed Section 13
+
+
