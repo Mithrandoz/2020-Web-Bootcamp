@@ -1,6 +1,6 @@
 Section 14
 
-April 4th 2020
+April 4th 2020 - April 11th 2020
 
 -watched lesson 191
 -explanation of the project for section 14
@@ -12,3 +12,21 @@ April 4th 2020
 -read lesson 193
 -link to starter files
 -downloaded and extracted files
+
+-completed lessons 194 through 214
+-struggled greatly but learned a lot
+-got to step 6/10 then realized everything was broken
+-worked for several days bugfixing
+-got frustrated
+-finally got stumped and compared code to the instructors
+-realized I overcomplicated things greatly and reduced my code from 70 lines to around 30
+-the rest was a breeze with minor difficulty here and there
+
+-watched lesson 215
+-pep talk on frustration
+-well timed
+
+-read lesson 216
+-feedback link
+
+Completed Section 14
