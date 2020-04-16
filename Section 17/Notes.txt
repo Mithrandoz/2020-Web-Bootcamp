@@ -1,0 +1,36 @@
+Section 17
+
+April 16th 2020
+
+-watched lesson 225
+-learned about Node.js
+
+-lesson 226 (install instructions for mac)
+
+-lesson 227 (install instructions for windows)
+-sucessfully installed node.js
+
+-watched lesson 228
+-reviewed how to navigate the commandline and learned how to call Node.js
+
+-watched lesson 229
+-learned how to use javascript in a commandline using Node.js
+-learned how to run .js files using Node within a commandline
+
+-watched lesson 230
+-learned about constants
+-learned about Native Node Modules
+-learned how to use node and js to modify files
+
+-watched lesson 231
+-learned about NPM
+-learned more about how to use NPM and create a package
+-completed the challenge and added "supervillians" npm
+
+-watched lesson 232
+-pep talk on challanges
+
+-read lesson 233
+-feedback link
+
+completed Section 17
