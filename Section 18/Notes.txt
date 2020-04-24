@@ -1,0 +1,12 @@
+Section 18
+
+April 20 2020
+
+-watched lesson 234
+-explanation of Express
+
+-watched lesson 235
+-created server directory and associated files using hyper
+-installed express to the server
+-learned how to activate and set up server locally
+
