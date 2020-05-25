@@ -1,12 +1,58 @@
-Section 18
+Section 19
 
 April 20 2020
 
--watched lesson 234
+-watched lesson 240
 -explanation of Express
 
--watched lesson 235
+-watched lesson 241
 -created server directory and associated files using hyper
 -installed express to the server
 -learned how to activate and set up server locally
 
+April 25 2020
+
+-watched lesson 242
+-learned about requests and responses
+-learned aobut the get and send functions
+
+-read lesson 243
+-troubleshooting for next lesson (installing Nodemon)
+
+-watched lesson 244
+-learned about routes
+-learned about nodemon and installed to node (easier server updating)
+
+April 28 2020
+
+-watched lesson 245
+-explaination of next project: a server based calculator
+
+May 25th 2020
+
+-read lesson 246
+-setup calculator server
+
+-watched lesson 247
+-review of server setup
+
+-watched lesson 248
+-learned about responding with HTML files
+
+-watched lesson 249
+-learned how to process post requests using body-parser (have calculator working)
+
+-read lesson 250
+-completed challange (create a BMI calculator page at a different directory)
+-took the liberty of making a homepage to navigate my vast array of calculators (owo)
+
+-watched lesson 251
+-reviewed previous challange
+
+-watched lesson 252
+-pep talk on Knowledge
+
+-read lesson 253
+-feedback link
+
+Completed Section 19
