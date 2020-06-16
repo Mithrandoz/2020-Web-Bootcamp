@@ -1,17 +1,17 @@
-Section 9
+Section 10
 
 March 25th 2020
 
--watched lesson 125
+-watched lesson 131
 -reviewed RNG (random number generation) and it's javascript function
 
--watched lesson 126
+-watched lesson 132
 -reviewed conditionals ('if' and 'else' statements)
 
--watched lesson 127
+-watched lesson 133
 -reviewed comparators and the different types of equality
 
--watched lesson 128
+-watched lesson 134
 -reviewed how to combine comparators
 
 -completed Coding Exercise 5 
@@ -32,7 +32,7 @@ function bmiCalculator (weight, height) {
     return interpretation;
 }
 
--watched lesson 129
+-watched lesson 135
 -explaination of the next challenge and the consept of a leap year (for people who didn't know, lol)
 
 -completed Coding Exercise 7
@@ -63,13 +63,13 @@ function isLeap(year) {
 
 -used the remainder function as if it wasn't divisible by a number there would be a remainder
 
--watched lesson 130
+-watched lesson 136
 -reviewed leap year solution
 
--watched lesson 131
+-watched lesson 137
 -reviewed arrays
 
--watched lesson 132
+-watched lesson 138
 -reviewed how to add things to arrays and other tecniques
 
 March 25th 2020
@@ -90,20 +90,20 @@ return (randoCalrisian + " is going to buy lunch today!")
 
 -Rando Calrissian is a spoof of Lando Calrissian from "Star Wars" usually used by gamers to refer to a random players they don't know (usually referred to as "Randos")
 
--watched lesson 133
+-watched lesson 139
 -reviewed the previous coding exercise
 
--watched lesson 134
+-watched lesson 140
 -reviewed the "while" statement and infinite loops
 -also talked about how to avoid infinite loops
 
--read lesson 135
+-read lesson 141
 -provided an example to a program referenced in lesson 134 (how to program the "bottles of beer on the wall" song using javascript "if" and "while" statements)
 
--watched lesson 136
+-watched lesson 142
 -reviewed the "for" statement
 
--watched lesson 137
+-watched lesson 143
 -explanation of next coding exercise
 
 -completed Coding Exercise 8
@@ -133,13 +133,13 @@ function fibonacciGenerator (n) {
     return sequence;
 }
 
--watched lesson 138
+-watched lesson 144
 -reviewed the nightmare that was the previous Coding Exercise
 
--watched lesson 139
+-watched lesson 145
 -pep talk on information retention
 
--read lesson 140
+-read lesson 146
 -feedback link
 
-Completed Section 9
+Completed Section 10

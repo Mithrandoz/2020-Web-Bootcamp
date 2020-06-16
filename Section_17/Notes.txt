@@ -1,9 +1,9 @@
-Section 16
+Section 17
 
 April 15th 2020
 
--watched Lesson 224
+-watched Lesson 230
 -Explanation of Backend Web Development and precursor to next half of sections
 
-Completed Section 16
+Completed Section 17
 

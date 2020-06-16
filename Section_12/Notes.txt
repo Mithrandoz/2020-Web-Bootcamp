@@ -1,8 +1,8 @@
-Section 11
+Section 12
 
 March 29th 2020
 
--watched lesson 151
+-watched lesson 157
 -given challenge to create a Dice game
 
 -created random numbers using math.random, multiplied them by 6, floored them, so I'd get a number between 0-5
@@ -13,19 +13,19 @@ March 29th 2020
 
 -completed the challenge
 
--read lessons 152 through 158
+-read lessons 158 through 164
 -step by step thought processes on what to do to make the website
 
--watched lesson 159
+-watched lesson 165
 -reviewed how she did the site
 
--read lesson 160
+-read lesson 166
 -link to download her code
 
--watched lesson 161
+-watched lesson 167
 -pep talk on learning before eating (to encourage focus)
 
--read lesson 162
+-read lesson 168
 -feedback link
 
-Completed Section 11
+Completed Section 12

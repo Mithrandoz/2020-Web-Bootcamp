@@ -1,19 +1,19 @@
-Section 14
+Section 15
 
 April 4th 2020 - April 11th 2020
 
--watched lesson 191
+-watched lesson 197
 -explanation of the project for section 14
 -I must make a Simon game
 
--read lesson 192
+-read lesson 198
 -link to the Simon game for those who don't know what it is
 
--read lesson 193
+-read lesson 199
 -link to starter files
 -downloaded and extracted files
 
--completed lessons 194 through 214
+-completed lessons 200 through 220
 -struggled greatly but learned a lot
 -got to step 6/10 then realized everything was broken
 -worked for several days bugfixing
@@ -22,11 +22,11 @@ April 4th 2020 - April 11th 2020
 -realized I overcomplicated things greatly and reduced my code from 70 lines to around 30
 -the rest was a breeze with minor difficulty here and there
 
--watched lesson 215
+-watched lesson 221
 -pep talk on frustration
 -well timed
 
--read lesson 216
+-read lesson 222
 -feedback link
 
-Completed Section 14
+Completed Section 15
