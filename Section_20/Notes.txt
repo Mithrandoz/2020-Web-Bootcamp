@@ -1,0 +1,35 @@
+Section 20
+
+6-20-2020
+
+-watched lesson 254
+-explanation of APIs and their usages (Application Programming Interface)
+
+-watched lesson 255
+-learned aobut endpoints, paths and paramaters via example APIs
+
+-watched lesson 256
+-reviewed authentication involving APIs and installed postman for better API paramater managment
+
+-watched lesson 257
+-explanation of JSON, also installed chrome extention to view JSON API paramaters
+
+-watched lesson 258
+-made file WeatherProject and created a server
+-made get request for openweathermap API and learned more about results
+
+7-20-2020
+
+-watched lesson 259
+-learned about specifying server responses, status codes, and learned how to parse data through JSON and utilize said data.
+
+-watched lesson 260
+-utilized API responses to create an example site with live API data
+
+7-21-2020
+
+-watched lesson 261
+-learned how to use body parser to parse user input data through post requests from the site html to the server and utilize said data to make api queries.
+
+
+
