@@ -31,5 +31,41 @@ Section 20
 -watched lesson 261
 -learned how to use body parser to parse user input data through post requests from the site html to the server and utilize said data to make api queries.
 
+7-23-2020
+
+-watched lesson 262
+-explanation of project, I will be making a news letter Application
+
+7-25-2020
+
+-watched lesson 263
+-created a new project folder along with the server js and html pages
+-created a newsletter signup page using bootstrap and got creative in an external stylesheet
+-linked the html page to the server js and learned how to link images and stylesheets through express for server use
+-parsed the user input from the html page to the server using post
+
+8-24-2020
+
+-they added a lesson somewhere in Section 2 increasing the lesson numbers
+
+-watched lesson 265
+-covered how to post the collected data to Mailchimp
+-a little confusing but getting the hang of things
+
+-watched lesson 266
+-made a success and failure page
+-used status code to determine which page appears after submission
+-bonus: used error_count to make a unique message if the user has already signed up
+
+-watched lesson 267
+-created Heroku account
+-needed to clean hard drive for space
+-installed Heroku
+-had to restart
+-having issues setting it up on Heroku due to existing Git Repository
+-maybe making a repository within a repository isn't the greatest idea
+
+
+
 
 
