@@ -64,7 +64,13 @@ Section 20
 -had to restart
 -having issues setting it up on Heroku due to existing Git Repository
 -maybe making a repository within a repository isn't the greatest idea
+-created a new repository outside this repository and successfully uploaded to Heroku
 
+-watched lesson 269 
+-pep talk
+
+-lesson 270
+-feedback link
 
 
 
