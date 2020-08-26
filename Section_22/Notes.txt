@@ -1,0 +1,34 @@
+Section 22
+
+8-25-2020
+
+-watched lesson 281
+-explanation of project
+-I will be tasked with making a To-do-List app using a Java Server
+
+-read lesson 282
+-Atom troubleshoot warning
+-I use Visual Studio
+
+-watched lesson 283
+-created new directory todolist-v1
+-created app.js and index.html
+-took her advice and made a personal templates folder to quickly set up programs and applications
+-created styles.css for later
+-worked with getting dates
+
+8-26-2020
+
+-watched lesson 284
+-installed EJS through NPM for the project
+-created views folder with list.EJS
+-learned about EJS keys
+-created code to determine what day it is in app.js and displayed said day in view.ejs
+
+-watched lesson 285
+-learned about scriptlets to use Javascript with html
+-used Scriptlet Javascript to to change text color based on what day it was
+
+
+
+
