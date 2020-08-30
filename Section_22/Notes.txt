@@ -29,6 +29,37 @@ Section 22
 -learned about scriptlets to use Javascript with html
 -used Scriptlet Javascript to to change text color based on what day it was
 
+8-29-2020
+
+-watched lesson 286
+-passed user input from list.ejs to app.js
+-encountering an error where data value of var item is vanishing between app.post and app.get
+-using console.log to troubleshoot
+-item is logged during app.post, app.get is then logged as being run, however the item is logged as an empty string in app.get, somehow var item is being wiped between the two
+-not sure what I did but it works now, changed var from a string to an array
+-created a for loop to create new <li> with array contents
+
+-watched lesson 287
+-explanation of scope
+-sums up the problem I had in the previous lesson
+-learned the difference between local and global variable
+-learned the difference between var and let
+-replaced all var with let
+
+-watched lesson 288
+-downloaded styles.css and deleted my own
+-linked styles.css to list.ejs
+-moved styles into a public folder and told app.js to use said folder
+-adjusted css for personal taste
+
+-watched lesson 289
+-learned how to use most requests to make different lists using if statements
+-managed to make 2 seperate lists using the same templates
+-also learned how to use ejs include to make layouts for quickly putting pages together
+
+
+
+
 
 
 

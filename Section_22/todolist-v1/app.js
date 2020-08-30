@@ -3,33 +3,68 @@ const bodyParser = require("body-parser");
 
 const app = express();
 
+// item is logged as empty to prevent errors
+
+let items = [];
+let workItems = [];
+
 app.set('view engine', 'ejs');
+app.use(bodyParser.urlencoded({extended: true}));
+app.use(express.static("Public"));
+
+
 
 app.get("/", function (req, res) {
     
-    var today = new Date();
-    var currentDay = today.getDay();
-    var day = ""
+    let today = new Date();
+    let currentDay = today.getDay();
 
-    if (currentDay === 0) {
-        day = "Sunday"
-    } else if (currentDay === 1) {
-        day = "Monday"
-    } else if (currentDay === 2) {
-        day = "Tuesday"
-    } else if (currentDay === 3) {
-        day = "Wednesday"
-    } else if (currentDay === 4) {
-        day = "Thursday"
-    } else if (currentDay === 5) {
-        day = "Friday"
-    } else if (currentDay === 6) {
-        day = "Saturday"
-    }
+    let options = {
+        weekday: "long",
+        day: "numeric",
+        month: "long"
+    };
 
-    res.render("list", {day: day});
+    let day = today.toLocaleDateString("en-US", options);
+
+    // day and item is rendered sucessfully
+    res.render("list", {listTitle: day, newItem: items});
+    // app.get is run successfully
+    console.log("ran")
+    // logged successfully
+    console.log(items)
 
 });
+
+app.post("/", function(req, res) {
+
+    let item = req.body.newItem;
+
+    if (req.body.list === "Work") {
+        workItems.push(item);
+        res.redirect("/work")
+        console.log("work")
+    } else {
+        items.push(item);
+        res.redirect("/");
+        console.log("non work")
+    }
+    console.log(item)
+});
+
+app.get("/work", function(req, res){
+    res.render("list", {listTitle: "Work List", newItem: workItems})
+})
+
+app.post("/work", function(req, res){
+    let item = req.body.newItem
+    workItems.push(item);
+    res.redirect("/work")
+})
+
+app.get("/about", function (req, res) {
+    res.render("about")
+})
 
 app.listen(3000, function () {
     console.log("Server started on port 3000.");
