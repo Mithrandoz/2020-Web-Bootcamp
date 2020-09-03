@@ -1,0 +1,93 @@
+9-1-2020
+
+-watched lesson 293
+-explanation of the project
+-completing the given challenges to create a blog site while using as few hints as possible
+
+9-2-2020
+
+-watched lesson 294
+-downloaded starting files
+-went ahead and added header and footer data to ejs pages though ejs layouts
+-installed npm dependancies
+
+-watched lesson 295 Challenge 1
+-I must display home.ejs from the server with an h1 that says "Home"
+-super easy, no hints needed, completed Challenge 1
+
+-watched lesson 296
+-answer to challenge 1
+-while she was explaining I went ahead and added proper page links in the header and tweaked the css to my liking
+
+-watched lesson 297 Challenge 2
+-I must send the string within the homeStartingContent variable to home.ejs within a paragraph tag
+-easy, done, no hints
+
+-watched lesson 298
+-answer to challenge 2
+-went ahead and added functionality to the nav bar in app.js
+
+-watched lesson 299 Challenge 3
+-wanted me to add the header and footer through ejs
+-already completed before challenge 1
+
+-watched lesson 300
+-answer to challenge 3
+
+-watched lesson 301 Challenge 4
+-instructed me to move header and footer to a partials folder
+-broke everything, she wants me to fix it
+-just updated the ejs include path to navigate into the partials folder, challenge complete
+
+-watched lesson 302
+-answer to Challenge 4
+-fixed all other pages in the meantime (-_-)
+
+-watched lesson 303 Challenge 5
+-she wants me to add h1s and data from app.js to the sites as well
+-just repeated steps to complete the Home page, donezo
+
+-watched lesson 304
+-answer to Challenge 5
+
+-watched lesson 305 Challenge 6
+-apparantly she didn't add functionality the nav bar? I already did this
+-challenge complete
+
+-watched lesson 306
+-answer to challenge 6
+
+-watched lesson 307 Challenge 7
+-wants me to create the compose page with text input bar
+-completed challenge and added button functionality, /compose was already accessable
+
+-watched lesson 308
+-answer to challenge 7
+
+-watched lesson 309 Challenge 8
+-I must console.log the user input from compose
+-completed challenge, a little more tricky than previous challenges
+
+-watched lesson 309
+-answer to challenge 8
+
+-watched lesson 310 Challenge 9
+-she wants me to make two input, title and post, make them wide, have a blue publish button, and make the post input a large text box
+-had to google a bit but solved it easily, challenge complete
+
+-watched lesson 311
+-answer to challenge 9
+-I did things a little different than her, but still looks virtually the same
+
+9-3-2020
+
+-watched lesson 312 Challenge 10
+-she wants me to create a js object called post that stores both the title and post data within
+-created a constant called post with an object with values title and body both with empty strings
+-created a function to add posted data into the post object within their respected fields
+-completed the challenge
+
+-watched lesson 313
+-answer to Challenge 10
+
+

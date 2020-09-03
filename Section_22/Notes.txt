@@ -57,6 +57,19 @@ Section 22
 -managed to make 2 seperate lists using the same templates
 -also learned how to use ejs include to make layouts for quickly putting pages together
 
+8-31-2020
+
+-watched lesson 290
+-learned about Node modules
+-utilized modules to export the date function from date.js to app.js
+-learned how to give modules multiple functionalites
+-reviewed shortening code and cutting unnecissary delcarations and making code improvements
+
+-watched lesson 291
+-pep talk
+
+-read lesson 292
+-feedback link
 
 
 
