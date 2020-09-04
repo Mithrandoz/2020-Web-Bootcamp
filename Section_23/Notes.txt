@@ -68,26 +68,116 @@
 -I must console.log the user input from compose
 -completed challenge, a little more tricky than previous challenges
 
--watched lesson 309
+-watched lesson 310
 -answer to challenge 8
 
--watched lesson 310 Challenge 9
+-watched lesson 311 Challenge 9
 -she wants me to make two input, title and post, make them wide, have a blue publish button, and make the post input a large text box
 -had to google a bit but solved it easily, challenge complete
 
--watched lesson 311
+-watched lesson 312
 -answer to challenge 9
 -I did things a little different than her, but still looks virtually the same
 
 9-3-2020
 
--watched lesson 312 Challenge 10
+-watched lesson 313 Challenge 10
 -she wants me to create a js object called post that stores both the title and post data within
 -created a constant called post with an object with values title and body both with empty strings
 -created a function to add posted data into the post object within their respected fields
 -completed the challenge
 
--watched lesson 313
+-watched lesson 314
 -answer to Challenge 10
 
+-watched lesson 315 Challenge 11
+-she wants me to create an array called posts to push the objects from post into and update the function to do so then redirect to the home page
+-easy, created constant empty array called posts and added a push function to the post function to push the data from post into posts
+-added a redirect to the home page, challenge complete
 
+-watched lesson 316
+-answer to challenge 11
+
+-watched lesson 317 Challenge 12
+-I must console log the posts array from the home page
+-added a ejs object called publicPosts and gave it's value as posts and rendered it with the home page so I could console.log it
+-challenge complete
+
+-watched lesson 318
+-answer to challenge 12
+
+-watched lesson 319 Challenge 13
+-I must create a for loop and console log only the titles of the posts in the posts array
+-created a for loop in home.ejs to console log publicPosts[i].title, challenge complete
+
+-watched lesson 320
+-answer to challenge 13
+
+-watched lesson 321 Challenge 14
+-introduced the forEach function and wanted me to replace the for loop with it
+-replaced for loop, completed challenge
+-covered solution
+
+-watched lesson 322 Challenge 15
+-I must render the post on the home page
+-super easy added h1 and p tags with post.title/.body as ejs elements, completed challenge
+
+-watched lesson 323
+-answer to challenge 15
+
+-watched lesson 324 
+-introduced express route paramaters for next challenge
+
+-watched lesson 325 Challenge 16
+-wanted me to use route paramaters to console.log the user input when attempting to search for a post
+-a little new but was easy to do, challenge complete
+
+-watched lesson 326
+-answer to Challenge 16
+
+-watched lesson 327 Challenge 17
+-I must console.log "Match Found!" if the user attempts to access a page within /posts/ that has a matching title of a post
+-created a forEach function for posts and an if statement to check if the :name matches the title of a post
+-challenge complete
+
+-watched lesson 328
+-answer to Challenge 17
+
+-watched lesson 329 Challenge 18
+-I must install Lodash and use it to allow the user to use kebab text and lowercase to access post title
+-worked around with it for a bit but got it to run, challenge completed
+
+-watched lesson 330
+-answer to Challenge 18
+
+-watched lesson 331 Challenge 19
+-modified the match found function to render post.ejs with the title and body of the post that matched
+-also added an alternative title and body if the page does not exist (Error 404)
+-challenge complete
+
+-watched lesson 332
+-answer to Challenge 19
+-added a general get request for any location that does not exist to respond with error 404
+
+-watched lesson 333 Challenge 20
+-I must set a character limit to how many characters will be displayed on the home page
+-used .substring and specified a 500 character limit from 0 - 499 on post.body
+
+-watched lesson 334
+-answer to Challenge 20
+-went ahead and linked the title of the post to the post's page itself
+
+-watched lesson 335 Challenge 21
+-I was close to what she wanted, I must add a "read more" link after the "..." of the previewed text
+-slight modification, challenge completed
+
+-watched lesson 336
+-answer to Challenge 21
+
+-watched lesson 337
+-pep talk
+
+-read lesson 338
+-feedback link
+
+Completed Section 23
