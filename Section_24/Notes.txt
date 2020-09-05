@@ -1,0 +1,10 @@
+Section 24
+
+9-5-2020
+
+-watched lesson 339
+-preface to next sections
+-explanations of databases
+-explained the pros and cons of SQL vs NoSQL databases
+
+Completed Section 24
