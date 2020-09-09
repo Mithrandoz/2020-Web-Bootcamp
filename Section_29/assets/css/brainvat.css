@@ -1,0 +1,7 @@
+img.brainvat {
+  border-radius: 8px;
+}
+
+img.brainvat:hover {
+  opacity:1;
+}
