@@ -1,0 +1,30 @@
+Section 25
+
+9-9-2020
+
+-watched lesson 340
+-learned about CRUD 
+-practiced creating tables and inserting and working with information within them
+
+9-10-2020
+
+-watched lesson 341
+-learned how to select and read specifics within an sql database and search for data
+
+-watched lesson 342
+-learned how to update specific values and modify existing tables within an sql database
+
+-watched lesson 343
+-learned how to delete specifics within an sql database
+
+-watched lesson 344
+-learned about foreign keys and how to link tables together
+-learned about the inner join function
+
+-watched lesson 345
+-pep talk
+
+-read lesson 346
+-feed back link
+
+Completed Section 25
