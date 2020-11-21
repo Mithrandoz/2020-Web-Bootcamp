@@ -1,0 +1,63 @@
+Section 26
+
+9-12-2020
+
+-watched lesson 347
+-Mac installation instructions for MongoDB
+
+-watched lesson 348
+-Windows installation instructions for MongoDB
+-installed MongoDB
+
+10-30-2020
+
+-watched lesson 349
+-learned how to start MongoDB through Mongod and how to interact with it in a seperate terminal tab
+-learned how to create database collections through MongoDB
+
+-watched lesson 350
+-learned how to find data entries within mongo
+
+-watched lesson 351
+-Learned how to update data entries within mongo
+
+-watched lesson 352
+-learned how to delete data entries within mongo
+
+-watched lesson 353
+-learned how relationships between data within mongo works
+-practiced making data entries and embedded documents
+
+
+11-19-2020
+
+-watched lesson 354
+-learned how to use MongoDB with Node
+-created app.js and intitialized NPM
+-installed mongodb package into NPM
+-mongodb has been updated since this lesson, nothing is the same
+-mongodb keeps refering to creating "clusters" and using "atlas"
+-none of that is covered and I have no idea what it means even after looking it up
+-Atlas appears to be a cloud service for mongo databases
+-mongos are app server routers, clusters contain shards, shards contain replica sets.
+-shards are groups of servers for one database cluster separated for quick and easy access.
+-what if I don't want to use Atlas and keep things local?
+11-20-20
+-I'm going to replicate her code and see if anything goes wrong between versions
+-depreciation warning
+-connected successfully to mongo even though it wasn't running?
+-booted up mongo and inserted required code to bypass depreciation
+-she want's me to copy more code that no longer exists, lovely
+-code still works, no problems
+-learned how to record database data and find database data using node
+
+-read lesson 355
+-tutorial on how to quit mongod if you accidentally quit the terminal
+
+-watched lesson 356
+-pep talk on routines
+
+-read lesson 357
+-feedback link
+
+Completed Section 26
